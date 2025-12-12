@@ -34,7 +34,7 @@ def main():
     \\x1b[30;101meiyuumiru@GitHub\\x1b[0m
     ----------------
     \\x1b[96mOS:     \\x1b[93mWindows 11, Arch Linux, iOS 26\\x1b[0m
-    \\x1b[96mHost:   \\x1b[93mUniversity of Information Technology (UIT)\\x1b[0m
+    \\x1b[96mHost:   \\x1b[93mUniversity of Information Technology\\x1b[0m
     \\x1b[96mKernel: \\x1b[93mComputer Science\\x1b[0m
     \\x1b[96mUptime: \\x1b[93m{user_age.years} years, {user_age.months} months, {user_age.days} days\\x1b[0m
     \\x1b[96mIDE:    \\x1b[93mVSCode, Cursor\\x1b[0m
