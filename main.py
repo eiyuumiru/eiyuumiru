@@ -12,7 +12,7 @@ FONT_FILE_MONA = "./fonts/Inversionz.otf"
 
 
 def main():
-    t = gifos.Terminal(1000, 650, 15, 15, FONT_FILE_BITMAP, 15)
+    t = gifos.Terminal(830, 650, 15, 15, FONT_FILE_BITMAP, 15)
     
     # Set custom prompt
     t.set_prompt("\x1b[0;91meiyuumiru\x1b[0m@\x1b[0;93mgifos ~> \x1b[0m")
@@ -52,7 +52,7 @@ def main():
     \\x1b[96mTotal PRs: \\x1b[93m{git_user_details.total_pull_requests_made}\\x1b[0m
     \\x1b[96mMerged PR %: \\x1b[93m{git_user_details.pull_requests_merge_percentage}\\x1b[0m
     \\x1b[96mTotal Contributions: \\x1b[93m{git_user_details.total_repo_contributions}\\x1b[0m
-    \\x1b[96mTop Languages: \\x1b[93m{', '.join(top_languages[:5])}\\x1b[0m
+    \\x1b[96mTop Languages: \\x1b[93m{', '.join(top_languages[:3])}\\x1b[0m
     """
 
     # Generate prompt and neofetch command
