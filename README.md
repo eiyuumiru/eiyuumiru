@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Discord-yukinee__-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord: yukinee_">
 </p>
 
-### <img src="https://api.iconify.design/fluent-emoji-flat/waving-hand.svg" height="22" align="absmiddle"> about me
+### <img src="https://api.iconify.design/noto/waving-hand.svg" height="22" align="absmiddle"> about me
 
 - computer science student at uit
 - i love digging into research, mostly ai and nlp
