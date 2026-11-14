@@ -11,7 +11,7 @@
 - i love digging into research, mostly ai and nlp
 - i love turning ai into real products too
 - on the side, i build hackintosh systems and tools, like [Mirra](https://github.com/eiyuumiru/Mirra)
-- find me on discord: [`yukinee_`](https://discord.com/users/645254204906274827)
+- find me on discord: <a href="https://discord.com/users/645254204906274827"><img src="https://img.shields.io/badge/Discord-yukinee__-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord: yukinee_"></a>
 
 ### <img src="https://cdn.simpleicons.org/kofi/FF5E5B" height="22" align="absmiddle"> if you like what i do
 
