@@ -2,7 +2,7 @@
   <a href="https://github.com/eiyuumiru?tab=repositories"><img src="https://img.shields.io/github/followers/eiyuumiru?style=flat&logo=github&label=followers" alt="followers"></a>
   <img src="https://img.shields.io/github/stars/eiyuumiru?style=flat&logo=github&label=stars" alt="stars">
   <img src="https://img.shields.io/badge/focus-AI%20%26%20NLP-0969da?style=flat&logo=pytorch&logoColor=white" alt="Focus: AI and NLP">
-  <img src="https://img.shields.io/badge/Discord-yukinee__-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord: yukinee_">
+  <a href="https://discord.com/users/645254204906274827"><img src="https://img.shields.io/badge/Discord-yukinee__-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord: yukinee_"></a>
 </p>
 
 ### <img src="https://api.iconify.design/noto/waving-hand.svg" height="22" align="absmiddle"> about me
@@ -11,7 +11,7 @@
 - i love digging into research, mostly ai and nlp
 - i love turning ai into real products too
 - on the side, i build hackintosh systems and tools, like [Mirra](https://github.com/eiyuumiru/Mirra)
-- find me on discord: `yukinee_`
+- find me on discord: [`yukinee_`](https://discord.com/users/645254204906274827)
 
 ### <img src="https://cdn.simpleicons.org/kofi/FF5E5B" height="22" align="absmiddle"> if you like what i do
 
