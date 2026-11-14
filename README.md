@@ -24,5 +24,5 @@ maybe consider buying me a coffee :)
 ### <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Apple_Music_icon.svg" height="22" align="absmiddle">&nbsp; on repeat
 
 <a href="https://open.spotify.com/track/7v3rmoy5jcn4h5UqwQyCM3">
-  <img src="./assets/music.png" width="300" alt="Ginseng Strip 2002 by Yung Lean">
+  <img src="./assets/music.png" width="520" alt="Ginseng Strip 2002 by Yung Lean">
 </a>
