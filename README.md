@@ -5,15 +5,15 @@
   <img src="https://img.shields.io/badge/Discord-yukinee__-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord: yukinee_">
 </p>
 
-### <img src="https://api.iconify.design/tabler/brain.svg?color=%230969da" height="20" align="absmiddle"> what i work on
+### what i work on
 
 i'm a computer science student at uit, focusing on ai and nlp. i love digging into research, and i love turning ai into real products too.
 
-### <img src="https://api.iconify.design/tabler/brand-apple.svg?color=%230969da" height="20" align="absmiddle"> on the side
+### on the side
 
 i build hackintosh systems and tools as a hobby, like [Mirra](https://github.com/eiyuumiru/Mirra).
 
-### <img src="https://api.iconify.design/tabler/coffee.svg?color=%230969da" height="20" align="absmiddle"> if you like what i do
+### if you like what i do
 
 maybe consider buying me a coffee :)
 
@@ -21,8 +21,33 @@ maybe consider buying me a coffee :)
   <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi">
 </a>
 
-### <img src="https://api.iconify.design/tabler/chart-bar.svg?color=%230969da" height="20" align="absmiddle"> my github stats
+### my github stats
 
-<a href="https://github.com/eiyuumiru">
-  <img src="https://streak-stats.demolab.com/?user=eiyuumiru&hide_border=true&background=00000000&ring=0969da&fire=0969da&currStreakLabel=0969da&currStreakNum=656d76&sideNums=656d76&sideLabels=656d76&dates=8b949e" alt="GitHub streak">
-</a>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/0-profile-details.svg">
+    <img width="49%" alt="Profile details" src="./profile-summary-card-output/github/0-profile-details.svg">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg">
+    <img width="49%" alt="GitHub stats" src="./profile-summary-card-output/github/3-stats.svg">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/1-repos-per-language.svg">
+    <img width="49%" alt="Repos per language" src="./profile-summary-card-output/github/1-repos-per-language.svg">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/2-most-commit-language.svg">
+    <img width="49%" alt="Most commit language" src="./profile-summary-card-output/github/2-most-commit-language.svg">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/4-productive-time.svg">
+    <img width="98%" alt="Productive time" src="./profile-summary-card-output/github/4-productive-time.svg">
+  </picture>
+</p>
