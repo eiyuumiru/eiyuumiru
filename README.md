@@ -21,18 +21,8 @@ maybe consider buying me a coffee :)
   <img src="https://storage.ko-fi.com/cdn/kofi3.png?v=3" height="48" alt="Support me on Ko-fi">
 </a>
 
-### <img src="https://cdn.simpleicons.org/github/8b949e" height="20" align="absmiddle">&nbsp; my github stats
+### <img src="https://cdn.simpleicons.org/spotify/1ED760" height="20" align="absmiddle">&nbsp; on repeat
 
-<p align="center">
-  <img width="49%" alt="Profile details" src="./profile-summary-card-output/transparent/0-profile-details.svg">
-  <img width="49%" alt="GitHub stats" src="./profile-summary-card-output/transparent/3-stats.svg">
-</p>
-
-<p align="center">
-  <img width="49%" alt="Repos per language" src="./profile-summary-card-output/transparent/1-repos-per-language.svg">
-  <img width="49%" alt="Most commit language" src="./profile-summary-card-output/transparent/2-most-commit-language.svg">
-</p>
-
-<p align="center">
-  <img width="98%" alt="Productive time" src="./profile-summary-card-output/transparent/4-productive-time.svg">
-</p>
+<a href="https://open.spotify.com/track/7v3rmoy5jcn4h5UqwQyCM3">
+  <img src="./assets/spotify.png" width="480" alt="Ginseng Strip 2002 by Yung Lean on Spotify">
+</a>
