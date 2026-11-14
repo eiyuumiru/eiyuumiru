@@ -18,7 +18,7 @@
 maybe consider buying me a coffee :)
 
 <a href="https://ko-fi.com/eiyuumiru">
-  <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi">
+  <img src="https://cdn.ko-fi.com/cdn/kofi3.png" height="36" alt="Support me on Ko-fi">
 </a>
 
 ### <img src="https://cdn.simpleicons.org/github/8b949e" height="20" align="absmiddle">&nbsp; my github stats
