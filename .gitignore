@@ -161,6 +161,8 @@ cython_debug/
 
 # Miscellaneous
 *.png
+!assets/*.png
+!tools/*.png
 *.gif
 !output.gif
 temp*

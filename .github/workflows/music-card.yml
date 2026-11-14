@@ -1,0 +1,59 @@
+name: Music card
+
+# Manual only: Actions tab -> "Music card" -> Run workflow
+on:
+  workflow_dispatch:
+    inputs:
+      spotify_url:
+        description: "Spotify track link (https://open.spotify.com/track/...)"
+        required: true
+        type: string
+      layout:
+        description: "Banner layout"
+        required: true
+        type: choice
+        default: horizontal
+        options:
+          - horizontal
+          - vertical
+
+permissions:
+  contents: write
+
+concurrency:
+  group: music-card
+  cancel-in-progress: false
+
+jobs:
+  render:
+    # macOS runner: San Francisco (SFNS.ttf) ships with the OS and is not redistributed in this repo
+    runs-on: macos-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Pillow
+        run: pip install -r tools/requirements.txt
+
+      - name: Render banner and update README
+        id: render
+        env:
+          SPOTIFY_URL: ${{ inputs.spotify_url }}
+          LAYOUT: ${{ inputs.layout }}
+        run: |
+          python tools/music_card.py "$SPOTIFY_URL" --layout "$LAYOUT" --out-dir assets --update-readme README.md
+
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A -f assets README.md
+          if git diff --cached --quiet; then
+            echo "Nothing changed."
+          else
+            git commit -m "chore: update music card"
+            git push
+          fi
