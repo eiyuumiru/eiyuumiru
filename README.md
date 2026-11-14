@@ -21,7 +21,7 @@ maybe consider buying me a coffee :)
   <img src="https://storage.ko-fi.com/cdn/kofi3.png?v=3" height="48" alt="Support me on Ko-fi">
 </a>
 
-### <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Apple_Music_icon.svg" height="22" align="absmiddle">&nbsp; on repeat
+### <img src="https://api.iconify.design/ph/vinyl-record-fill.svg?color=%23FA243C" height="22" align="absmiddle">&nbsp; on repeat
 
 <a href="https://open.spotify.com/track/7v3rmoy5jcn4h5UqwQyCM3">
   <img src="./assets/music.png" width="520" alt="Ginseng Strip 2002 by Yung Lean">
