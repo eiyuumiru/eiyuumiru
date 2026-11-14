@@ -5,15 +5,15 @@
   <img src="https://img.shields.io/badge/Discord-yukinee__-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord: yukinee_">
 </p>
 
-### <img src="https://api.iconify.design/tabler:brain.svg?color=%230969da" height="20" align="absmiddle"> what i work on
+### <img src="https://api.iconify.design/tabler/brain.svg?color=%230969da" height="20" align="absmiddle"> what i work on
 
 i'm a computer science student at uit, focusing on ai and nlp. i love digging into research, and i love turning ai into real products too.
 
-### <img src="https://api.iconify.design/tabler:brand-apple.svg?color=%230969da" height="20" align="absmiddle"> on the side
+### <img src="https://api.iconify.design/tabler/brand-apple.svg?color=%230969da" height="20" align="absmiddle"> on the side
 
 i build hackintosh systems and tools as a hobby, like [Mirra](https://github.com/eiyuumiru/Mirra).
 
-### <img src="https://api.iconify.design/tabler:coffee.svg?color=%230969da" height="20" align="absmiddle"> if you like what i do
+### <img src="https://api.iconify.design/tabler/coffee.svg?color=%230969da" height="20" align="absmiddle"> if you like what i do
 
 maybe consider buying me a coffee :)
 
@@ -21,8 +21,8 @@ maybe consider buying me a coffee :)
   <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi">
 </a>
 
-### <img src="https://api.iconify.design/tabler:chart-bar.svg?color=%230969da" height="20" align="absmiddle"> my github stats
+### <img src="https://api.iconify.design/tabler/chart-bar.svg?color=%230969da" height="20" align="absmiddle"> my github stats
 
 <a href="https://github.com/eiyuumiru">
-  <img src="https://github-readme-stats.vercel.app/api?username=eiyuumiru&show_icons=true&hide_border=true&theme=transparent&title_color=0969da&icon_color=0969da&text_color=656d76" alt="GitHub stats">
+  <img src="https://streak-stats.demolab.com/?user=eiyuumiru&hide_border=true&background=00000000&ring=0969da&fire=0969da&currStreakLabel=0969da&currStreakNum=656d76&sideNums=656d76&sideLabels=656d76&dates=8b949e" alt="GitHub streak">
 </a>
