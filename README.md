@@ -24,30 +24,15 @@ maybe consider buying me a coffee :)
 ### <img src="https://cdn.simpleicons.org/github/8b949e" height="20" align="absmiddle">&nbsp; my github stats
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/0-profile-details.svg">
-    <img width="49%" alt="Profile details" src="./profile-summary-card-output/github/0-profile-details.svg">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/3-stats.svg">
-    <img width="49%" alt="GitHub stats" src="./profile-summary-card-output/github/3-stats.svg">
-  </picture>
+  <img width="49%" alt="Profile details" src="./profile-summary-card-output/transparent/0-profile-details.svg">
+  <img width="49%" alt="GitHub stats" src="./profile-summary-card-output/transparent/3-stats.svg">
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/1-repos-per-language.svg">
-    <img width="49%" alt="Repos per language" src="./profile-summary-card-output/github/1-repos-per-language.svg">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/2-most-commit-language.svg">
-    <img width="49%" alt="Most commit language" src="./profile-summary-card-output/github/2-most-commit-language.svg">
-  </picture>
+  <img width="49%" alt="Repos per language" src="./profile-summary-card-output/transparent/1-repos-per-language.svg">
+  <img width="49%" alt="Most commit language" src="./profile-summary-card-output/transparent/2-most-commit-language.svg">
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/4-productive-time.svg">
-    <img width="98%" alt="Productive time" src="./profile-summary-card-output/github/4-productive-time.svg">
-  </picture>
+  <img width="98%" alt="Productive time" src="./profile-summary-card-output/transparent/4-productive-time.svg">
 </p>

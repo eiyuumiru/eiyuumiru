@@ -15,7 +15,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Cards (dark)
+      - name: Generate cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
@@ -23,14 +23,4 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           BRANCH_NAME: "main"
           TIME_ZONE: "Asia/Ho_Chi_Minh"
-          THEME: "github_dark"
-
-      - name: Cards (light)
-        uses: vn7n24fzkq/github-profile-summary-cards@release
-        env:
-          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
-        with:
-          USERNAME: ${{ github.repository_owner }}
-          BRANCH_NAME: "main"
-          TIME_ZONE: "Asia/Ho_Chi_Minh"
-          THEME: "github"
+          THEME: "transparent"
