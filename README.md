@@ -5,13 +5,17 @@
   <img src="https://img.shields.io/badge/Discord-yukinee__-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord: yukinee_">
 </p>
 
-### <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="22" align="absmiddle"> what i work on
+### about me
 
-i'm a computer science student at uit, focusing on ai and nlp. i love digging into research, and i love turning ai into real products too.
+- <img src="https://api.iconify.design/ph/graduation-cap.svg?color=%238b949e" height="16" align="absmiddle"> computer science student at uit
+- <img src="https://api.iconify.design/ph/flask.svg?color=%238b949e" height="16" align="absmiddle"> i love digging into research, mostly ai and nlp
+- <img src="https://api.iconify.design/ph/rocket-launch.svg?color=%238b949e" height="16" align="absmiddle"> i love turning ai into real products too
+- <img src="https://cdn.simpleicons.org/apple/8b949e" height="16" align="absmiddle"> on the side, i build hackintosh systems and tools, like [Mirra](https://github.com/eiyuumiru/Mirra)
+- <img src="https://cdn.simpleicons.org/discord/5865F2" height="16" align="absmiddle"> find me on discord: `yukinee_`
 
-### <img src="https://cdn.simpleicons.org/apple/8b949e" height="22" align="absmiddle"> on the side
+### tools i use
 
-i build hackintosh systems and tools as a hobby, like [Mirra](https://github.com/eiyuumiru/Mirra).
+<img src="https://skillicons.dev/icons?i=python,pytorch,jupyter" height="40" alt="Python, PyTorch, Jupyter">
 
 ### <img src="https://cdn.simpleicons.org/kofi/FF5E5B" height="22" align="absmiddle"> if you like what i do
 
