@@ -5,15 +5,15 @@
   <img src="https://img.shields.io/badge/Discord-yukinee__-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord: yukinee_">
 </p>
 
-### what i work on
+### <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="22" align="absmiddle"> what i work on
 
 i'm a computer science student at uit, focusing on ai and nlp. i love digging into research, and i love turning ai into real products too.
 
-### on the side
+### <img src="https://cdn.simpleicons.org/apple/8b949e" height="22" align="absmiddle"> on the side
 
 i build hackintosh systems and tools as a hobby, like [Mirra](https://github.com/eiyuumiru/Mirra).
 
-### if you like what i do
+### <img src="https://cdn.simpleicons.org/kofi/FF5E5B" height="22" align="absmiddle"> if you like what i do
 
 maybe consider buying me a coffee :)
 
@@ -21,7 +21,7 @@ maybe consider buying me a coffee :)
   <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi">
 </a>
 
-### my github stats
+### <img src="https://cdn.simpleicons.org/github/8b949e" height="22" align="absmiddle"> my github stats
 
 <p align="center">
   <picture>
