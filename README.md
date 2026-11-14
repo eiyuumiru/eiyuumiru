@@ -5,7 +5,7 @@
   <a href="https://discord.com/users/645254204906274827"><img src="https://img.shields.io/badge/Discord-yukinee__-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord: yukinee_"></a>
 </p>
 
-### <img src="https://api.iconify.design/noto/waving-hand.svg" height="22" align="absmiddle"> about me
+### <img src="https://api.iconify.design/noto/waving-hand.svg" height="26" align="absmiddle">&nbsp; about me
 
 - computer science student at uit
 - i love digging into research, mostly ai and nlp
@@ -13,7 +13,7 @@
 - on the side, i build hackintosh systems and tools, like [Mirra](https://github.com/eiyuumiru/Mirra)
 - find me on discord: <a href="https://discord.com/users/645254204906274827"><img src="https://img.shields.io/badge/Discord-yukinee__-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord: yukinee_"></a>
 
-### <img src="https://cdn.simpleicons.org/kofi/FF5E5B" height="22" align="absmiddle"> if you like what i do
+### <img src="https://cdn.simpleicons.org/kofi/FF5E5B" height="20" align="absmiddle">&nbsp; if you like what i do
 
 maybe consider buying me a coffee :)
 
@@ -21,7 +21,7 @@ maybe consider buying me a coffee :)
   <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi">
 </a>
 
-### <img src="https://cdn.simpleicons.org/github/8b949e" height="22" align="absmiddle"> my github stats
+### <img src="https://cdn.simpleicons.org/github/8b949e" height="20" align="absmiddle">&nbsp; my github stats
 
 <p align="center">
   <picture>
