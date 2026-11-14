@@ -7,7 +7,7 @@
 
 ### <img src="https://api.iconify.design/noto/waving-hand.svg" height="26" align="absmiddle">&nbsp; about me
 
-- computer science student at uit
+- computer science student at uit, vnuhcm
 - i love digging into research, mostly ai and nlp
 - i love turning ai into real products too
 - on the side, i build hackintosh systems and tools, like [Mirra](https://github.com/eiyuumiru/Mirra)
