@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://github.com/eiyuumiru?tab=repositories"><img src="https://img.shields.io/github/followers/eiyuumiru?style=flat&logo=github&label=followers" alt="followers"></a>
   <img src="https://img.shields.io/github/stars/eiyuumiru?style=flat&logo=github&label=stars" alt="stars">
-  <img src="https://img.shields.io/badge/focus-AI%20%26%20NLP-0969da?style=flat&logo=huggingface&logoColor=white" alt="Focus: AI and NLP">
+  <img src="https://img.shields.io/badge/focus-AI%20%26%20NLP-0969da?style=flat&logo=pytorch&logoColor=white" alt="Focus: AI and NLP">
   <img src="https://img.shields.io/badge/Discord-yukinee__-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord: yukinee_">
 </p>
 
-### <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="22" align="absmiddle"> what i work on
+### <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="22" align="absmiddle"> what i work on
 
 i'm a computer science student at uit, focusing on ai and nlp. i love digging into research, and i love turning ai into real products too.
 
