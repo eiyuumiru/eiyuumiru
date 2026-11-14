@@ -24,7 +24,7 @@ maybe consider buying me a coffee :)
 ### <img src="https://api.iconify.design/ph/vinyl-record-fill.svg?color=%23FA243C" height="22" align="absmiddle">&nbsp; on repeat
 
 <!-- music-card:start -->
-<a href="https://open.spotify.com/track/7v3rmoy5jcn4h5UqwQyCM3">
-  <img src="./assets/music-7v3rmoy5jcn4h5UqwQyCM3-horizontal.png" width="520" alt="Ginseng Strip 2002 by Yung Lean">
+<a href="https://open.spotify.com/track/2dADNdusy4hsY6cQnlJDLp">
+  <img src="./assets/music-2dADNdusy4hsY6cQnlJDLp-horizontal.png" width="520" alt="Seven of Nine by 90sFlav">
 </a>
 <!-- music-card:end -->
