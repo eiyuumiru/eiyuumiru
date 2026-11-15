@@ -24,7 +24,7 @@ maybe consider buying me a coffee :)
 ### <img src="https://api.iconify.design/ph/vinyl-record-fill.svg?color=%23FA243C" height="22" align="absmiddle">&nbsp; on repeat
 
 <!-- music-card:start -->
-<a href="https://open.spotify.com/track/2dADNdusy4hsY6cQnlJDLp">
-  <img src="./assets/music-2dADNdusy4hsY6cQnlJDLp-horizontal.png" width="520" alt="Seven of Nine by 90sFlav">
+<a href="https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ">
+  <img src="./assets/music-0FVuyC9RP5MACjp4lgU3qZ-horizontal.png" width="520" alt="I&#x27;m God by Clams Casino, Imogen Heap">
 </a>
 <!-- music-card:end -->
