@@ -24,7 +24,7 @@ maybe consider buying me a coffee :)
 ### <img src="https://api.iconify.design/ph/vinyl-record-fill.svg?color=%23FA243C" height="22" align="absmiddle">&nbsp; on repeat
 
 <!-- music-card:start -->
-<a href="https://open.spotify.com/track/0BxE4FqsDD1Ot4YuBXwAPp">
-  <img src="./assets/music-0BxE4FqsDD1Ot4YuBXwAPp-horizontal.png" width="520" alt="505 by Arctic Monkeys">
+<a href="https://open.spotify.com/track/4yZEWAKshWZjQXpV45KyVd">
+  <img src="./assets/music-4yZEWAKshWZjQXpV45KyVd-horizontal.png" width="520" alt="Nice Boys by TEMPOREX">
 </a>
 <!-- music-card:end -->
